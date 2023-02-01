@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 200vh;
+    height: 100%;
+}
+
+.brenpic {
+    padding-left: 15vh;
+    height: 70vh
+
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  
+  
+  
