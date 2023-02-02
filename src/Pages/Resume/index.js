@@ -17,10 +17,10 @@ function Resume() {
           <section id="links" className="col s12">
             <ul id="lynx">
               
-              <li><a>Linkedin</a></li>
+              <li><a href="https://www.linkedin.com/in/bren-cowell/" target='_blank' className="btn-flat">Linkedin</a></li>
               <li>Denver, CO</li>
-              <li>Mail</li>
-              <li>Github</li>
+              <li><a href="mailto:yanohb@yahoo.com?subject=Offer Inquiry" target='_blank' className="btn-flat">Mail</a></li>
+              <li><a href="https://github.com/brenbtc" target='_blank' className="btn-flat">Github</a></li>
             </ul>
           </section>
 
